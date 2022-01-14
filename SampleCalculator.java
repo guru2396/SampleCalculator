@@ -2,6 +2,7 @@ import java.util.*;
 
 class SampleCalculator{
 	public static void main(String[] args){
+		//Calculator program
 		Scanner sc=new Scanner(System.in);
 		boolean done=false;
 		while(!done){
